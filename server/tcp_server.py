@@ -1,7 +1,7 @@
 import threading
 import socket
-from Client import Client
-from TcpSocket import TcpSocket
+from client import Client
+from tcp_socket import TcpSocket
 
 
 class TcpServer:
